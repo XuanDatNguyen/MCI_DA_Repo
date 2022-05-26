@@ -1,1 +1,1 @@
-#Đây là nơi lưu trữ toàn bộ source code về Python, SQL hoặc PowerBI của team DA MCI
+#Đây là nơi lưu trữ toàn bộ source code về Python, SQL của team DA MCI
